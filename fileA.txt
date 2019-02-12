@@ -1,2 +1,6 @@
 some lines of code in master branch
+<<<<<<< HEAD
 master added fries
+=======
+sub_master enters his lines
+>>>>>>> sub_master
